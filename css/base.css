@@ -1,0 +1,20 @@
+body {
+	font-size: 20px;
+	font-color: #555;
+}
+
+.section-head {
+	margin-top: 80px;
+	margin-bottom: 30px;
+}
+
+
+.header {
+	margin-top: 20px;
+}
+
+.header img {
+	 max-height:40px;
+	 display: inline;
+}
+
